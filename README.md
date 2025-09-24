@@ -1,11 +1,9 @@
-# URL Shortener Assessment Project
-
-This project contains both the **Logging Middleware** and **React URL Shortener** applications as required for the Campus Hiring Evaluation.
+# URL Shortener
 
 ## 📁 Project Structure
 
 ```
-2201641550124/
+URL Shortener/
 ├── LoggingMiddleware/
 │   └── log.js                    # Reusable logging middleware
 └── url-shortener/                # React URL Shortener Application
